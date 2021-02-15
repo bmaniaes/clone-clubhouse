@@ -1,7 +1,7 @@
 # Um clone do app Club House
 
 ## Demonstration
-<img src="">
+<img src="./assets/demo.png" alt="Exemplo">
 
 
 ## Techs 
